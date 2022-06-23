@@ -29,7 +29,7 @@ Function Invoke-PSUAPI {
         Write-Output "Error: Please do not include http in the server name. Just put the hostname of the server."
         Return
     }
-    If ( $app_token -notmatch '^[0-9a-zA-Z.-]{1,}$') {
+    If ( $app_token -notmatch '^[0-9a-zA-Z._-]{1,}$') {
         Write-Output "Error: This does not appear to be a valid looking app token. Please confirm that this is a valid app token."
         Return
     }
