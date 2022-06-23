@@ -7,7 +7,7 @@ The purpose of this script is to provide a direct way to interact with the API o
 
 ## Visuals 👀
 
-![image](https://user-images.githubusercontent.com/537287/168902731-bece4b5b-3c6d-440f-ab51-954c484e99fe.png)
+![image](https://user-images.githubusercontent.com/537287/175238079-5695eef5-7bc4-404e-bfb1-ec73c578d03a.png)
 
 ## Versions
 
